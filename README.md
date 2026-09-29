@@ -3,8 +3,8 @@
 Printed QR codes point at `https://utbal.github.io/eureka/v2/cards/<name>.html`.
 This repo restores those URLs with client redirects to the live SparkON pages:
 
-`https://utbal.github.io/sparkon/cards/<name>.html`
+`https://sparkon.cards/cards/<name>.html`
 
-Root and `/v2/` redirect to `https://utbal.github.io/sparkon/`.
+Root and `/v2/` redirect to `https://sparkon.cards/`.
 
 GitHub Pages: `main` branch, path `/`.
